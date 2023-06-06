@@ -1,21 +1,21 @@
 # Tech-Blog
 
-##Description
+Description
 ```
 The Tech Blog is a platform designed for developers to share their blog posts and engage in discussions by commenting on other developers' articles. This application adheres to the MVC (Model-View-Controller) architectural pattern and employs Handlebars.js as its templating language. It utilizes Sequelize as the ORM (Object-Relational Mapping) tool and integrates the express-session npm package for authentication purposes.
 ```
-#Deployed application
+Deployed application
 https://Joaquin-Loya.herokuapp.com/
 
 ![image](https://github.com/JLoya900/Tech-Blog/assets/118794860/0ec2ebec-d22d-425d-8798-c8fdcaeb5086)
 
-#User Story
+User Story
 ```
 AS A developer who writes about tech
 I WANT a CMS-style blog site
 SO THAT I can publish articles, blog posts, and my thoughts and opinions
 ```
-#Acceptance Criteria
+Acceptance Criteria
 ```
 GIVEN a CMS-style blog site
 WHEN I visit the site for the first time
@@ -51,5 +51,5 @@ THEN I am signed out of the site
 WHEN I am idle on the site for more than a set time
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
 ```
-#Questions
+Questions
 If you have any questions about the repository, contact me directly at jloya7557@gmail.com
