@@ -7,7 +7,7 @@ The Tech Blog is a platform designed for developers to share their blog posts an
 Deployed application
 https://Joaquin-Loya.herokuapp.com/
 
-![image](https://github.com/JLoya900/Tech-Blog/assets/118794860/0ec2ebec-d22d-425d-8798-c8fdcaeb5086)
+![image](https://github.com/JLoya900/Tech-Blog/assets/118794860/1f44002f-82ec-4a3f-8875-00365aa49489)
 
 User Story
 ```
